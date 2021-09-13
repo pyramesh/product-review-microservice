@@ -1,5 +1,7 @@
 # product-review-microservice
 
+![alt text](https://github.com/pyramesh/product-review-microservice/blob/main/architecture.png)
+
 **********************************************
 ##Technologies used in this assignment
 **********************************************
